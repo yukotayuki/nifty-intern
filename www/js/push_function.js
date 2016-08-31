@@ -21,6 +21,4 @@ function push_demo(){
 
 }
 
-push_demo();
-
 
